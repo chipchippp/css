@@ -1,0 +1,12 @@
+p.one{
+    border-style: solid;
+    border-color: red;
+    padding: 5px;
+    border-radius: 5px;
+}
+p.two{
+    border-style: solid;
+    border-color: aqua;
+    padding: 5px;
+    border-radius: 12px;
+}

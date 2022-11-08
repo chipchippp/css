@@ -1,0 +1,9 @@
+p.dotted{ outline-style: dotted;}
+p.dashed{ outline-style: dashed;
+outline-color: aqua;
+outline-width: thin;}
+p.solid{ outline-style: solid;
+outline-style: solid;
+outline-color: red;
+outline-width: thick;}
+p.double{ outline-style:double;}

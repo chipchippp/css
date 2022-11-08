@@ -1,0 +1,16 @@
+p {
+    color: red;
+    text-align: center;
+}
+#para1 { <--Quy tắc CSS bên dưới sẽ được áp dụng cho phần tử HTML có id = "para1":  -->
+    text-align: center;
+    color: red;
+}
+.center { <--tất cả các phần tử HTML có class = "center" sẽ có màu đỏ và được căn giữa: -->
+    text-align: center;
+    color: red;
+}
+h1, h2, p {
+    text-align: center;
+    color: aqua;
+}
